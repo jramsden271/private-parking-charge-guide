@@ -51,6 +51,10 @@ private-parking-charge-guide/        the skill (this folder is what's zipped)
 dist/                                packaged zip(s) for download
 ```
 
+## Licence
+
+[CC BY 4.0](LICENSE): you can share and adapt this skill, including for your own version, as long as you credit it and link back here. Quoted legislation, Code of Practice extracts and judgments remain under their own terms.
+
 ## Feedback
 
 Spotted something wrong or out of date? Open an issue on this repo.
