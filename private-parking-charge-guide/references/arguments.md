@@ -4,7 +4,7 @@ Reference file for the private-parking-charge-guide skill. One entry per argumen
 
 ## Contents
 
-Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS or DS argument means that file.
+Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS, DS or PY argument means that file.
 
 **L — Liability and standing**
 - L1. No keeper liability: the NTK doesn't comply with POFA. *Strong if clear.*
@@ -55,6 +55,13 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - DS1. Reasonable adjustments: the operator's duties under the Equality Act 2010 (Code cl. 4 commentary). *Moderate; strong as a complaint.*
 - DS2. Blue Badge held but not displayed (Code F.3(e); cl. 4.2 signs). *Moderate; often cancelled or reduced.*
 - DS3. Accessibility rules on signs (cl. 4.1, 4.2). *Supporting.*
+
+**PY — Payment problems** → in `arguments-payment.md`
+- PY1. "Double dip": two visits recorded as one long stay (Code cl. 7.3(d)). *Strong with evidence.*
+- PY2. Machine out of order, no workable way to pay (cl. 6.1.2(c); F.3(f)). *Moderate; strong with evidence and no signage.*
+- PY3. Paid, but not matched: wrong location code, wrong app, wrong car, system error. *Weak–moderate alone; strong as a complaint.*
+- PY4. Paid late, or paid before leaving (F.1(j)). *Strong where F.1(j) applies.*
+- PY5. Customer didn't register on the in-store terminal (F.3(g); cl. 3.1 Note 4). *Strong as a complaint.*
 
 **CP — Code of Practice points**
 - CP1. Grace and consideration periods not given. *Strong for small overstays.*
