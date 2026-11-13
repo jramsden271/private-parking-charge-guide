@@ -13,15 +13,32 @@ Reference file for the private-parking-charge-guide skill. The core rules in SKI
 
 
 
-## H. Judgment / CCJ — when paying is the right call
+## H. Judgment / CCJ
 
-Say so clearly and strongly when:
-- **The user has lost at a hearing.** Pay the judgment in full by the date the court orders, and within one calendar month of the judgment date, so the CCJ is removed from the Register (it then won't affect their credit file). Don't let it go to enforcement. Check whether an appeal is realistic only if there's a clear error of law — recommend the forum first.
-- **A default CCJ has been entered because they missed the paperwork** (e.g. sent to an old address):
-  - **First, compute and state the one-month date** (judgment date + one calendar month), the weekday, and how many days are left. Suggest paying a few working days before it if they choose to pay.
-  - Two legitimate routes — lay out both, especially if time is tight (e.g. a mortgage application):
-    - **Pay in full within one calendar month of judgment:** the CCJ is then cancelled and removed from the Register (paying later only marks it "satisfied" and it stays for six years). Pay via the claimant's solicitor **in writing** (ask for bank details and written confirmation); then apply to the court for a **certificate of cancellation (form N443)** with proof of payment — gov.uk shows the current fee (it was £19 as of Nov 2026). The Registry Trust says to allow about **4–8 weeks** for the Register and credit files to update. If a lender or broker is involved, the user may want to tell them early and send the certificate; how lenders treat it is a question for the broker (*Low*). Paying gives up the chance to defend.
-    - **Set-aside application** (form N244 + witness statement about *not receiving the claim* — not about the parking facts), with a court fee (gov.uk showed £321 as of Nov 2026; always check https://www.gov.uk/county-court-judgments-ccj-for-debt and whether they qualify for Help with Fees: https://www.gov.uk/get-help-with-court-fees). First ask the claimant to consent to a set-aside with a short deadline (~2 weeks), then apply promptly — delay can be fatal. Where the claim went to an old DVLA address, cite *Carr v VCS* (`references/cases.md`).
-  - Recommend posting on the forum at this stage.
-- **The user genuinely wants to pay**, having understood the facts: respect that; don't argue further. The minimum facts first, briefly: a complaint to the store/landowner may get it cancelled for free within the discount window; paying ends any challenge. The driver point matters less if they'll pay regardless, but naming the driver still can't be undone.
+Users often arrive here fresh, having never engaged with the parking charge (or never received the paperwork). Start from what the judgment means for them, not from the process.
 
+**What it is.** A County Court Judgment (CCJ) for a parking charge almost always means a court claim was issued and nothing was filed in reply in time, so the claimant got judgment "by default" without a hearing. The commonest reason is that the claim (and everything before it) went to an old address. Say this plainly and calmly; it's fixable, but the clock is running.
+
+**First, get the facts (ask; don't guess):**
+- the **judgment date** (on the judgment or the court's letter) → compute the **one-month date** (judgment date + one calendar month), its weekday, and days left;
+- the **claimant and its solicitor**, read from the documents (never assume who they are);
+- the **amount** and the **claim number**;
+- whether the user **received the claim form**, and their address history (did they move? was the V5C up to date?);
+- whether they ever filed anything (an Acknowledgment of Service or defence on MCOL).
+
+If they have no documents, they can get details of the judgment from the claimant's solicitor or the court, or search the Register of Judgments (Registry Trust, small fee).
+
+**The two real options.** Lay out both, with their caveats, and let the user choose. Don't pad the list with options that don't work; put limitations as caveats under the option they belong to.
+
+1. **Pay in full within one calendar month of the judgment date.** The CCJ is then cancelled and removed from the Register, so it won't affect their credit file.
+   - Pay via the claimant's solicitor **in writing** (ask for bank details and written confirmation), then apply to the court for a **certificate of cancellation (form N443)** with proof of payment (gov.uk shows the current fee; it was £19 as of Nov 2026). The Registry Trust says to allow about **4–8 weeks** for the Register and credit files to update.
+   - Caveats: paying **after** the month only marks the CCJ "satisfied", and it stays on the Register for six years; paying also ends any chance to defend. Suggest paying a few working days before the deadline.
+   - If a lender or broker is involved (e.g. a mortgage), the user may want to tell them early and send the certificate; how lenders treat it is a question for the broker (*Low*).
+2. **Apply to set the judgment aside**, then defend the claim.
+   - **When it fits:** the user didn't receive the claim (e.g. it went to an old address the claimant had reason to doubt: *Carr v VCS*, `cases.md`), and/or has a real defence. The court **must** set aside a default judgment that was wrongly entered (e.g. an Acknowledgment of Service or defence was filed in time; CPR 13.2); otherwise it **may** set it aside if there's a real prospect of defending or another good reason, and the application was made promptly (CPR 13.3).
+   - **How:** first ask the claimant's solicitor in writing to **consent** to the set-aside, with a short deadline (about 2 weeks). Then apply to the court on **form N244** with a witness statement about **not receiving the claim and acting promptly once they found out** (not about the parking facts), plus a draft defence. Court fee: gov.uk showed £321 as of Nov 2026; check https://www.gov.uk/county-court-judgments-ccj-for-debt and Help with Fees: https://www.gov.uk/get-help-with-court-fees.
+   - Caveats: **delay can be fatal**, so act as soon as the user learns of the CCJ; the fee is paid even if the application fails; if it's set aside, the claim then proceeds and needs defending (`court-claim-and-defence.md`). A consent from the claimant can avoid a contested hearing; whether it changes the court fee, check gov.uk.
+- **Recommend the forum** for set-aside cases (link the board: https://forums.moneysavingexpert.com/categories/parking-tickets-fines-parking), and give a one-line summary they can post.
+- **If the user has lost at a hearing** (not a default judgment): pay in full by the date the court orders, and within one calendar month of the judgment, so the CCJ is removed from the Register. Don't let it go to enforcement. An appeal is only realistic for a clear error of law; ask the forum first.
+- **Enforcement:** nothing can be enforced unless the CCJ is left unpaid; bailiffs (High Court enforcement officers) come only after a further court step. If an enforcement letter has already arrived, say so first and act that day.
+- **The user genuinely wants to pay**, having understood the facts: respect that; don't argue further. The minimum facts first, briefly: paying within the month removes the CCJ; paying ends any challenge.
