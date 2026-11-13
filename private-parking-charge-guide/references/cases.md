@@ -1,0 +1,22 @@
+# Cases often cited on the forum
+
+Reference file for the private-parking-charge-guide skill.
+
+
+Little in this area is binding. Most of these are County Court decisions — persuasive only — and should be described that way. **Only cite cases in this table (or ones verified live — see below the table). Never invent a citation, quote, or paragraph number.** Where no link is listed, say "transcript available via the forum" rather than inventing a URL.
+
+| Case | Court / status | Used for | Link |
+|---|---|---|---|
+| *ParkingEye Ltd v Beavis* [2015] UKSC 67 | Supreme Court – binding | Parking firms rely on it to justify charges. Defendants use its limits: it was about a free, clearly signed retail car park with a legitimate interest; prominent signage (see the sign in the judgment) mattered; paras 98, 193, 198 are often cited | https://www.supremecourt.uk/cases/uksc-2015-0116.html ; https://caselaw.nationalarchives.gov.uk/uksc/2015/67 |
+| *Carr v Vehicle Control Services Ltd* [2025] EWCA Civ 713 | Court of Appeal – binding | Claims served at an old DVLA address; the claimant must take reasonable steps where there's reason to believe the address is out of date; set-aside of default judgment | https://caselaw.nationalarchives.gov.uk/ewca/civ/2025/713 |
+| *Civil Enforcement Ltd v Chan* (E7GM9W44, Luton, HHJ Murch, 15 Aug 2023) | County Court appeal – persuasive | Particulars of Claim that don't set out the breach fail CPR 16.4 → strike-out | Discussion thread with a link to the transcript: https://forums.moneysavingexpert.com/discussion/6473149/major-judgement-where-judge-strike-out-the-claim-form ; defence para 3 wording: https://forums.moneysavingexpert.com/discussion/comment/81571257/#Comment_81571257 |
+| *Car Park Management Service Ltd v Akande* (K0DP5J30, Manchester, HHJ Evans, 10 May 2024) | County Court appeal – persuasive | As Chan | No link yet — cite by name and reference; the forum's template defence thread links copies. |
+| *Jopson v Homeguard Services* (B9GF0A9E, Oxford, HHJ Harris QC, 2016) | County Court appeal – persuasive | Stopping/loading vs parking; residential rights; distinguishing Beavis | The old forum link to the transcript (thread 5553131) is dead — search the forum for a current copy. |
+| *PACE Recovery & Storage v Mr N* (C7GF51J1, Croydon, DJ Coonan, 2016) | County Court – persuasive | Tenancy rights override later signage | Report: https://parking-prankster.blogspot.com/2016/11/pace-pulverised-in-croyden.html |
+| *Excel Parking Services Ltd v Anthony Smith* (claim C0DP9C4E, appeal M17X062, Stockport, June 2017) | County Court appeal – persuasive | No keeper liability without POFA compliance and no evidence of driver | No link yet — cite by name, claim number and court. |
+| *Vehicle Control Services v Edward* (H0KF6C9C, 2023) — note the spelling: Edward, not "Edwards" | County Court appeal – persuasive | No presumption that the keeper was the driver | Transcript (Scribd): https://www.scribd.com/document/676990739/VCS-Limited-v-Ian-Mark-Edward |
+| *Excel Parking Services v Wilkinson* (G4QZ465V, Bradford, DJ Jackson, July 2020) | County Court – persuasive | Added £60/£70 "costs" not recoverable | Discussion and links: https://forums.moneysavingexpert.com/discussion/6279348/witness-statements-2-transcript-exhibits-re-parking-firms-falsely-added-contractual-costs |
+| *Elliott v Loake* [1983] Crim LR 36 | Criminal case | Parking firms cite it to presume the keeper was the driver; the forum's answer is that it was a criminal case with forensic evidence and isn't authority for a civil presumption | — |
+
+If you have web access and the user needs a case not in this table, search the forum, verify the transcript/link exists, and label the answer Medium or Low.
+
