@@ -21,6 +21,12 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - C4. Stopping isn't parking (*Jopson*). *Moderate.*
 - C5. Primacy of contract (residential sites). *Strong with a clear lease.*
 - C6. The consideration period was too short for this site: the Code's figures are minimums, not maximums (cl. 5.1; CMA open letter, July 2026). *Moderate–strong for short stays.*
+- C7. No adequate entrance sign (Code cl. 3.1.1–3.1.2). *Moderate–strong where missing or unreadable on approach.*
+- C8. The charge wasn't prominent: the *Beavis* sign comparison and the "red hand rule" (*Spurling*, *Interfoto*; Code cl. 3.1.3–3.1.4). *Moderate; the standard signage point at court.*
+- C9. Forbidding signs: "Permit holders only" / "No parking" offers no contract (*PCM v Mr B* and others). *Moderate–strong where the wording is purely prohibitive.*
+- C10. Signs not readable in the conditions: dark, too high, obscured, faded (Code cl. 3.1.6–3.1.7). *Moderate with photos.*
+- C11. No sign where it mattered: terms only at the machine, none near the bay, unclear boundaries between sites (Code cl. 3.1.3(a), 3.2, 3.3). *Moderate.*
+- C12. Unclear, inconsistent or changed signs; the operator's photos aren't of the signs as they were. *Supporting–moderate.*
 
 **NS — No-stopping cases** → in `arguments-no-stopping.md` (airport and station forecourts, private access roads; see *VCS v Ozog* [2026] EWCC 12)
 - NS1. A prohibition isn't a contractual offer, unless it comes bundled with something new (e.g. permission to enter). *Moderate where an existing right can be shown.*
@@ -324,6 +330,77 @@ The IAS lines in the entries below build these in where relevant.
 - **Forum threads:** 6679354 (Euro Parking Services, a 3m 46s stay; Coupon-mad: "Three minutes is predatory"; IAS appeal citing the CMA letter, Aug 2026); 6673702 (ANPR "total stay" and the consideration period in a WS, July 2026); 6679952 (CEL defence citing the CMA letter); 6482843 (PE, 5m 4s, under the old BPA Code).
 - **Sources:** Single Code v1.1 cl. 2.9, cl. 5.1 (with Note 2), the Annex B commentary, B.1, B.2 (`notices-and-codes.md`); CMA open letter to private parking operators, 16 July 2026, paras 17–23 and Annex A: https://assets.publishing.service.gov.uk/media/6a5784276d6d5c7e2845ca02/open_letter.pdf ; CMA letter to MHCLG, 16 July 2026 (recommendations on the consideration period): https://www.gov.uk/government/publications/cma-letter-to-government-in-relation-to-private-parking .
 
+### C7. No adequate entrance sign
+- **Point:** the Code requires an entrance sign at each vehicle entrance (cl. 3.1.1, with limited exceptions) that tells drivers terms and conditions apply, whether payment is required or free parking is time-limited, the operator's name and trade-body logo, and whether cash is taken (cl. 3.1.2(a)–(e)). It "must not imply an invitation to park where public parking is not permitted", and its "size and positioning … must take into account the expected speed and direction of travel of vehicles approaching the entrance and must be visible (i.e. not be obscured e.g. by foliage or other objects)". Where parking is invited after dark, entrance signs "must be visible to approaching drivers and hence may require lighting" (Note 1). Without a proper entrance sign, a driver has no warning that terms apply before committing to enter.
+- **Applies when:** no entrance sign on the route used; a sign only saying something vague ("restrictions apply, read signs within"); small, sideways-on, obscured or unlit at the entrance; several entrances with only one signed.
+- **Evidence:** photos or video of every entrance from the driver's position, at the same time of day (see "Gathering evidence"); dated Street View.
+- **Strength:** Moderate to strong where there's no entrance sign at all on the route used, or it's unreadable on approach. Supporting where an entrance sign exists but is merely small.
+- **By stage:** *Appeal:* one line. *POPLA and IAS:* cite cl. 3.1.1–3.1.2 with photos. *Defence:* put the claimant to proof of an entrance sign meeting the Code on the route the vehicle took. *WS:* photos as exhibits.
+- **Established wording:** *(WS, from a forum statement)* "If you approach the car park from this direction, there was only a single sign visible to me at the entrance to the car park … It states only that 'PARKING RESTRICTIONS APPLY' and to 'READ SIGNAGE WITHIN'." (6054571)
+- **Forum threads:** 6054571; 6017649 (a sign facing sideways about 12 feet up, "barely … noticeable or read even if one is standing underneath it").
+- **Sources:** Single Code v1.1 cl. 3.1.1, 3.1.2 and Note 1; Annex A.
+
+### C8. The charge wasn't prominent: the *Beavis* comparison and the "red hand rule"
+- **Point:** a term only binds if it was fairly brought to the driver's attention before the contract was made, and the more onerous or unusual the term, the more prominent it must be. A £100 charge for a minor breach is the most onerous term on the sign. Lord Denning's "red hand rule": some clauses "would need to be printed in red ink on the face of the document with a red hand pointing to it before the notice could be held to be sufficient" (*Spurling v Bradshaw*; applied in *Thornton v Shoe Lane Parking* and *Interfoto v Stiletto*). *Beavis* itself turned on unusually clear signs: large, prominent, at the entrance and throughout, with the charge in large text. The standard forum approach is to put the *Beavis* sign side by side with the site's signs and invite the court to compare them. The Code backs this up: terms signs must be "sufficiently large to be visible from a distance and legible on approach" and "display the parking charge … in a large font" (cl. 3.1.3(b), (j)), and the charge must be shown "in a font of comparable size and boldness to the main body text" and no smaller than any tariff text (cl. 3.1.4).
+- **Applies when:** the charge is in small print, buried in a block of text, smaller than the tariff or headline, or only readable close up; the signs are wordy, cluttered or low-contrast (cl. 3.1.3(e)–(g)).
+- **Evidence:** close-up and distance photos showing the charge text; a measurement or estimate of text height; the *Beavis* sign (from the judgment, or the copy linked in the forum's newbies and template threads) as an exhibit for comparison.
+- **Strength:** Moderate. It's a fixture of forum witness statements and judges do find against unclear signs, but against large, clear signs it fails (*Beavis*).
+- **Defeated by:** signs comparable to *Beavis*; a driver who admits reading the terms.
+- **By stage:**
+  - *Appeal:* one line ("the charge was not prominently displayed").
+  - *POPLA and IAS:* photos plus the Code clauses.
+  - *Defence:* deny that the charge was incorporated; it was not prominent (*Spurling*, *Interfoto*, *Beavis* distinguished).
+  - *WS:* the side-by-side comparison as an exhibit; describe what a driver could and couldn't read from where they were.
+- **Established wording:**
+  - *(WS, adapted from several forum statements, e.g. 6054571)* "I have included a copy of the sign from *ParkingEye v Beavis* in exhibit [x] for comparison. That sign was clear and prominent, with the charge in large lettering. In this case, the signage fails to meet that standard."
+  - *(defence/WS)* "The 'red hand rule' from *Spurling v Bradshaw* [1956] 1 WLR 461 further supports that any onerous or unusual terms (such as penalty charges) must be made extremely prominent, which they were not in this instance." (6575502)
+- **Forum threads:** 5707549 (Beavis sign comparison and red hand rule); 6054571; 6210723; 6575502; 6305625.
+- **Sources:** `cases.md`: *Beavis*, *Spurling v Bradshaw*, *Thornton v Shoe Lane Parking*, *Interfoto v Stiletto*; Single Code v1.1 cl. 3.1.3(b), (e)–(g), (j), 3.1.4.
+
+### C9. Forbidding signs: "Permit holders only" or "No parking" offers no contract
+- **Point:** a contract needs an offer. A sign that only forbids ("No parking at any time", "Permit holders only", "Residents only") offers nothing to anyone outside the permitted group, so a driver who parks there can't have accepted an offer, and there's no contract to breach. At most it's a trespass, which only the landowner (or someone in possession) can sue for, and only for actual loss. In *PCM (UK) v Mr B*, *Mr W* and *Ms L* (2016) the District Judge found a "No Parking At Any Time" sign "absolutely prohibitive", communicating no offer of parking, and dismissed all three claims; *Beavis* didn't apply because there the contract was agreed. This is the same principle as NS1 for no-stopping signs.
+- **Applies when:** the sign's main message is a prohibition, and the charge is presented as a contractual sum for doing the forbidden thing; typically residential sites, private roads, permit-only areas.
+- **Defeated by:** signs that do offer parking to everyone on stated terms (e.g. "Parking for non-permit holders is £100 per day", or "By parking without a permit you agree to pay £100"). Some judges treat such wording as a conditional offer, so read the exact words; the claimant will argue it. Also defeated where the driver *was* a permit holder who forgot to display (then it's a permit/terms point, and C5 primacy of contract may be stronger).
+- **Strength:** Moderate to strong where the wording is purely prohibitive. First-instance decisions only, so persuasive. *Confidence: Medium.*
+- **By stage:**
+  - *Appeal and POPLA/IAS:* quote the sign and say it makes no offer.
+  - *Defence:* "The signs are forbidding and incapable of forming a contract with a driver who was not a permit holder; at most this is a trespass, a matter for the landowner." Cite the PCM cases.
+  - *WS:* exhibit the sign; quote the PCM reasoning; contrast it with a sign that does offer terms.
+- **Established wording:** *(defence, widely used)* "It is limited to cars displaying a valid permit only and therefore the terms cannot apply to cars without a permit because the signage does not offer an invitation to park on certain terms. The terms are forbidding." (6316993) Also "it is trite law that a term that is forbidding cannot also constitute an offer" (6270450).
+- **Forum threads:** 5451157 (Coupon-mad: "Permit Holders Only" is "the same as saying to such a person 'No Parking'"); 5825835; 6316993; 6270450; 6097447.
+- **Sources:** `cases.md`: *PCM (UK) v Mr B, Mr W, Ms L*; NS1 for the no-stopping version.
+
+### C10. Signs not readable in the conditions: dark, too high, obscured, faded
+- **Point:** signs "must be designed and installed so as to be conspicuous and legible in all lighting conditions during which the controlled land may legitimately be accessed, at a height that takes account of whether the signs are intended to be viewed from the vehicle (including by headlight in the hours of darkness)" (cl. 3.1.6). Lighting may be needed "to meet the test of prominence in the Consumer Rights Act 2015" (Note 1). Signs must stay legible despite weathering, sunlight, dirt or "growth of foliage" (cl. 3.1.7). A sign the driver couldn't read when they parked can't have formed a contract.
+- **Applies when:** the parking was after dark and the signs are unlit; signs are high up or angled away; hidden by trees, vans or other signs; faded or dirty.
+- **Evidence:** photos taken at the same time of day (and in the dark, for a night-time event), from the driver's position; note the height; the operator's own photos (often taken in daylight or with flash).
+- **Strength:** Moderate with good photos; strong for a night-time event with unlit signs.
+- **By stage:** *Appeal:* one line. *POPLA and IAS:* cl. 3.1.6–3.1.7 with photos. *Defence and WS:* the conditions at the time, with exhibits.
+- **Established wording:** *(none yet)*
+- **Forum threads:** 6017649.
+- **Sources:** Single Code v1.1 cl. 3.1.6, 3.1.7.
+
+### C11. No sign where it mattered
+- **Point:** terms signs must be "placed within the controlled land, such that drivers have the chance to read them at the time of parking or leaving their vehicle" (cl. 3.1.3(a)). If the only terms were on a pay machine across the car park, or nowhere near where the car parked, the driver had no fair chance to read them. Where adjoining areas have different terms and no physical separation, signs or markings must "delineate clearly between these premises" (cl. 3.2); compare LS3. Where the breach is not parking within a bay, the bay markings must be "clearly visible to drivers in all lighting and weather conditions", and clear in the photos (cl. 3.3). And markings alone aren't terms: they only matter if a sign explains them (C1).
+- **Applies when:** no terms sign near the bay or walking route; terms only on machines; shared or adjoining sites with unclear boundaries; faded or missing bay lines.
+- **Evidence:** a site plan or sketch with sign positions and where the car was; photos along the walking route.
+- **Strength:** Moderate.
+- **By stage:** *POPLA and IAS:* plan plus photos and the clauses. *Defence:* put to proof of a sign near where the vehicle was parked. *WS:* plan and photos.
+- **Established wording:** *(WS)* "At the point of entry, the entrance terms and conditions sign is not visible or readable … The only viewable signage is the pay and display machine sign." (forum WS template, Google Docs exhibit list)
+- **Forum threads:** *(add as found)*
+- **Sources:** Single Code v1.1 cl. 3.1.3(a), 3.2, 3.3.
+
+### C12. Unclear, inconsistent or changed signs; the operator's photos aren't of the signs as they were
+- **Point:** several smaller points that often add up:
+  - **Unclear or contradictory wording.** Ambiguous terms are read in the consumer's favour (CRA 2015 s.69). Examples: "Permit holders only" next to "Visitors parking"; different charges on different signs; "may be liable" (LS4). All signs on a site should be consistent in typeface, size and layout (cl. 3.1.6 Note 2).
+  - **"Penalty" or "fine".** Signs must not use those words unless required by statute (cl. 3.1.3(i)).
+  - **Signs changed since the incident.** Operators' evidence packs sometimes show signs photographed on another date, or a generic sign. Put them to proof of the signs in place on the incident date (dated photos, installation records). The user's own dated photos, or dated Street View, can show what was there (or wasn't). A forum WS warned of a claimant "appending false signage to their witness statement that does not exist at this car park".
+- **Strength:** Supporting to moderate; the "signs as at the date" point can be strong where the operator's photos are clearly from another time.
+- **By stage:** *POPLA and IAS:* ask for dated photos of the signs as at the incident date. *Defence:* put to proof. *WS:* compare their photos with yours, with dates.
+- **Established wording:** *(none yet)*
+- **Forum threads:** 4488337 (POPLA decisions thread: "permit holder only" beside "visitors parking only" argued as ambiguous).
+- **Sources:** CRA 2015 s.69; Single Code v1.1 cl. 3.1.3(i), 3.1.6 Note 2.
+
 ---
 
 ## CP — Code of Practice points (support, not the whole case)
@@ -334,7 +411,7 @@ The Single Code binds operators, not motorists, and doesn't override the law. Us
 - **Point:** the Code requires a consideration period at the start and a grace period at the end. A charge must not be issued during a grace period (cl. 5.2). The Annex B figures are minimums; where the time on site exceeded the operator's consideration period but the site needed longer, use C6.
 - **Applies when:** the overstay or short stay falls within those periods. ANPR times include driving in and out.
 - **Defeated by:** short-stay and no-stopping areas (no grace period); car parks with no time limit; non-compliance with the terms other than the time limit (the grace period doesn't apply in isolation).
-- **How to do the arithmetic:** for an ANPR stay, compare the total time on site with: the permitted time + the minimum consideration period at entry + the grace period at the end (e.g. 90 min free + 5 + 10 = 105 minutes). ANPR times also include driving in, finding a space and queuing out. Within that total: strong. A minute or two over: still arguable, but lead with C6 (the minimum isn't a cut-off; time needed to drive in and out) rather than claiming a clear Code breach. Well over: weak.
+- **How to do the arithmetic:** for an ANPR stay, compare the total time on site with: the permitted time + the minimum consideration period at entry + the grace period at the end (e.g. 90 min free + 5 + 10 = 105 minutes). Expect pushback: operators (and some advisers) say the consideration period ends when the driver parks, so it can't be added to the grace period, and the Code says the grace period doesn't create free parking "up to the sum of the consideration and grace periods" (cl. 5.2 Note 1). The answer is that the parking period starts when the driver decided to park, not at camera entry (CMA open letter, para 22; C6), so the time spent driving in and finding a space isn't part of it. ANPR times also include driving in, finding a space and queuing out. Within that total: strong. A minute or two over: still arguable, but lead with C6 (the minimum isn't a cut-off; time needed to drive in and out) rather than claiming a clear Code breach. Well over: weak.
 - **Strength:** Strong for small overstays within the Annex B figures; Moderate just over them (with C6); Weak otherwise.
 - **By stage:**
   - *Appeal:* brief.
