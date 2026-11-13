@@ -27,6 +27,7 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - C10. Signs not readable in the conditions: dark, too high, obscured, faded (Code cl. 3.1.6–3.1.7). *Moderate with photos.*
 - C11. No sign where it mattered: terms only at the machine, none near the bay, unclear boundaries between sites (Code cl. 3.1.3(a), 3.2, 3.3). *Moderate.*
 - C12. Unclear, inconsistent or changed signs, including recent changes to terms without the 4-month warning notices (Code cl. 3.4); the operator's photos aren't of the signs as they were. *Supporting–moderate; strong for a regular visitor caught by a recent change.*
+- C13. "No return within X hours": the operator can't prove the same driver came back. *Strong for a keeper who hasn't named the driver.*
 
 **NS — No-stopping cases** → in `arguments-no-stopping.md` (airport and station forecourts, private access roads; see *VCS v Ozog* [2026] EWCC 12)
 - NS1. A prohibition isn't a contractual offer, unless it comes bundled with something new (e.g. permission to enter). *Moderate where an existing right can be shown.*
@@ -427,6 +428,20 @@ The IAS lines in the entries below build these in where relevant.
 - **Established wording:** *(none yet)*
 - **Forum threads:** 4488337 (POPLA decisions thread: "permit holder only" beside "visitors parking only" argued as ambiguous).
 - **Sources:** CRA 2015 s.69; Single Code v1.1 cl. 3.1.3(i), 3.1.6 Note 2, 3.4.
+
+### C13. "No return within X hours": the operator can't prove the same driver came back
+- **Point:** a "no return within [60 minutes / 2 hours]" term is a term of the contract made by the driver on a visit. It can only be broken if **the same driver** came back within the period. A second visit by a different driver is a new contract with a new person, who isn't bound by what the first driver agreed. ANPR records a number plate, not who was driving, so on its own it can't show the same person drove both times. Unless the keeper identifies the driver(s), the operator has no evidence of a breach. A contract "is with a person, not with a lump of metal" (FTLA, 2025).
+- **Keeper liability too:** POFA keeper liability rests on a notice about "the period of parking" (Sch 4 para 9(2)(a)). A "no return" allegation by definition spans two visits, so regulars argue the notice can't specify a single period of parking for it (*Medium*; supporting, alongside L1).
+- **Applies when:** the charge is for returning too soon; the driver(s) haven't been identified.
+- **Defeated by:** the keeper naming the driver, or saying "I came back" in an appeal; other evidence identifying the same person both times. So the keeper must not explain the two visits in a way that identifies who drove them.
+- **Strength:** Strong for a keeper who hasn't named the driver. *Confidence: Medium-high (forum reasoning; no reported court decision that we've found).*
+- **By stage:**
+  - *Appeal (keeper):* "A 'no return' term can only be breached by the same driver returning. ANPR identifies a vehicle, not a driver, and you have no evidence that the same person drove on both visits. No driver details will be given." Add L1/L4.
+  - *POPLA and IAS:* the same, plus the para 9(2)(a) point and the IAS pre-emptive points.
+  - *Defence:* the claimant is put to strict proof that the same individual drove on both occasions; keeper liability denied.
+  - *WS:* if true, the keeper can state that they don't know or haven't said who drove each time; only state that different people drove if that's true and the user has decided to say it (SKILL.md section 3).
+- **Established wording:** *(FTLA, keeper appeal)* "ANPR simply records a plate passing a camera. It does not and cannot identify who was driving, and it certainly does not prove that the same person drove on both visits."
+- **Forum threads:** FTLA "Returning within a no return period – ParkdirectUK" (2025); see also PY1 (a double dip looks the same on camera).
 
 ---
 
