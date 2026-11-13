@@ -34,7 +34,7 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - NS9. The site wasn't approved for no-stopping charges (Single Code cl. 5.3, all operators; old IPC Code for earlier incidents). *Supporting only; never lead with it.*
 - NS10. A momentary stop isn't "parking", so POFA keeper liability can't attach. *Supporting; part of the keeper-liability package (L1/L4).*
 
-**AP — Airport drop-off charges** → in `arguments-no-stopping.md` (which kind of airport charge; the forum's playbook from thread 6500170)
+**AP — Airport charges** → in `arguments-airports.md` (drop-off zones, no-stopping roads and car parks; the forum's playbook from thread 6500170)
 - AP1. Airport byelaw land: no keeper liability (keeper appeal). *Strong against APCOA/NCP.*
 - AP2. The NTK claims POFA keeper liability on land where it can't apply (Code 8.1.1(d)). *Moderate at POPLA/IAS.*
 
@@ -176,7 +176,7 @@ The IAS lines in the entries below build these in where relevant.
   - *Defence:* plead it with the date and the statutory instruments.
   - *WS:* add the boundary map or byelaws.
 - **Established wording:** *(defence, railway land before 26 Dec 2025)* "The land in question ([station]) is railway land subject to statutory control under the Railway Byelaws. At the material time ([date]) it was not 'relevant land' under PoFA. The amendment bringing railway land within 'relevant land' did not come into force until 26 December 2025 and cannot apply retrospectively."
-- **Forum threads:** 6637588; 6654021 (airport byelaws and boundary maps); 6500170 (airport drop-off group thread; see the AP section in `arguments-no-stopping.md`).
+- **Forum threads:** 6637588; 6654021 (airport byelaws and boundary maps); 6500170 (airport drop-off group thread; see `arguments-airports.md`).
 - **Sources:** SI 2025/1256 and 2025/1258; "relevant land" in `notices-and-codes.md`.
 
 ### L4. No presumption that the keeper was the driver
