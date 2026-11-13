@@ -304,12 +304,12 @@ The IAS lines in the entries below build these in where relevant.
 
 ### C4. Stopping isn't parking
 - **Point:** briefly stopping, for example to load, unload or drop off, isn't "parking". If the terms only regulate parking, they weren't triggered.
-- **Applies when:** the vehicle was stationary briefly, and the terms or Particulars talk about "parking".
+- **Applies when:** the vehicle was stationary briefly, and the terms or Particulars talk about "parking". The standard use is a delivery or drop-off of a few minutes (food deliveries included); regulars treat it as a valid point for a ~10-minute delivery stop at a permit-only residential site (6690494), alongside C9.
 - **Defeated by:** signs whose terms prohibit *stopping* (then use the NS arguments). Also paid drop-off zones, where the breach is non-payment, so this point is weaker.
 - **Strength:** Moderate, as the case is persuasive only.
 - **By stage:** used at every stage. In a defence, pair it with NS2.
 - **Established wording:** *(defence)* "Stopping is not parking (*Homeguard Services Ltd v Jopson* [2016]). The vehicle was stationary for [duration]."
-- **Forum threads:** 6637588.
+- **Forum threads:** 6637588; 6690494 (ParkingEye, permit-only residential block, food delivery, LBCCC, Nov 2026).
 - **Sources:** *Jopson v Homeguard* (2016).
 
 ### C5. Primacy of contract (residential sites)
@@ -530,7 +530,7 @@ The Single Code binds operators, not motorists, and doesn't override the law. Us
 - **Evidence:** a copy of the permit or badge, the renewal email, photos of the machine, medical letters, breakdown records.
 - **Strength:** Moderate with good evidence. Strongest as a landowner complaint and at first appeal.
 - **By stage:**
-  - *Appeal and complaint:* lead with it.
+  - *Appeal and complaint:* lead with it, **unless the evidence would identify the driver** (rule 12; SKILL.md section 3). Medical letters, appointment receipts and similar name a person. At a keeper appeal, either describe the circumstance in vehicle terms and hold the named evidence back, or let the user choose openly between keeper protections and mitigation. Note F.3(b) covers a driver *or passenger*, so check who it was.
   - *POPLA and IAS:* cite the Annex F item.
   - *Defence:* mention it briefly.
   - *WS:* expand with evidence; present it as an honest mistake, quickly corrected.
