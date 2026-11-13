@@ -26,7 +26,7 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - C9. Forbidding signs: "Permit holders only" / "No parking" / "No parking 22:00–08:00" offers no contract (*PCM v Mr B* and others). *Moderate–strong where the wording is purely prohibitive.*
 - C10. Signs not readable in the conditions: dark, too high, obscured, faded (Code cl. 3.1.6–3.1.7). *Moderate with photos.*
 - C11. No sign where it mattered: terms only at the machine, none near the bay, unclear boundaries between sites (Code cl. 3.1.3(a), 3.2, 3.3). *Moderate.*
-- C12. Unclear, inconsistent or changed signs; the operator's photos aren't of the signs as they were. *Supporting–moderate.*
+- C12. Unclear, inconsistent or changed signs, including recent changes to terms without the 4-month warning notices (Code cl. 3.4); the operator's photos aren't of the signs as they were. *Supporting–moderate; strong for a regular visitor caught by a recent change.*
 
 **NS — No-stopping cases** → in `arguments-no-stopping.md` (airport and station forecourts, private access roads; see *VCS v Ozog* [2026] EWCC 12)
 - NS1. A prohibition isn't a contractual offer, unless it comes bundled with something new (e.g. permission to enter). *Moderate where an existing right can be shown.*
@@ -396,12 +396,13 @@ The IAS lines in the entries below build these in where relevant.
 - **Point:** several smaller points that often add up:
   - **Unclear or contradictory wording.** Ambiguous terms are read in the consumer's favour (CRA 2015 s.69). Examples: "Permit holders only" next to "Visitors parking"; different charges on different signs; "may be liable" (LS4). All signs on a site should be consistent in typeface, size and layout (cl. 3.1.6 Note 2).
   - **"Penalty" or "fine".** Signs must not use those words unless required by statute (cl. 3.1.3(i)).
+  - **Terms changed recently, without the required warning notices.** Where there's "any material change to any pre-existing terms and conditions that would not be immediately apparent to a driver" at a site that is or has been open for public parking, the operator "must place additional (temporary) notices at the site entrance for a period of not less than 4 months from the date of the change making it clear that new terms and conditions/charges apply, such that regular visitors who might be familiar with the old terms do not inadvertently incur parking charges" (Single Code v1.1 cl. 3.4). The Code's examples: enforcement introduced where there was none, time-limited free parking introduced, or the free period shortened. Repeater notices may also be needed on larger sites. This is strong for regular visitors caught out by a change: put the operator to proof of the date of the change and of the temporary entrance notices for the following 4 months. Evidence of when things changed: dated Street View, store staff, local news or online reviews mentioning the new rules.
   - **Signs changed since the incident.** Operators' evidence packs sometimes show signs photographed on another date, or a generic sign. Put them to proof of the signs in place on the incident date (dated photos, installation records). The user's own dated photos, or dated Street View, can show what was there (or wasn't). A forum WS warned of a claimant "appending false signage to their witness statement that does not exist at this car park".
-- **Strength:** Supporting to moderate; the "signs as at the date" point can be strong where the operator's photos are clearly from another time.
+- **Strength:** Supporting to moderate; the "signs as at the date" point can be strong where the operator's photos are clearly from another time, and the cl. 3.4 point is strong for a regular visitor caught out by a recent change.
 - **By stage:** *POPLA and IAS:* ask for dated photos of the signs as at the incident date. *Defence:* put to proof. *WS:* compare their photos with yours, with dates.
 - **Established wording:** *(none yet)*
 - **Forum threads:** 4488337 (POPLA decisions thread: "permit holder only" beside "visitors parking only" argued as ambiguous).
-- **Sources:** CRA 2015 s.69; Single Code v1.1 cl. 3.1.3(i), 3.1.6 Note 2.
+- **Sources:** CRA 2015 s.69; Single Code v1.1 cl. 3.1.3(i), 3.1.6 Note 2, 3.4.
 
 ---
 
