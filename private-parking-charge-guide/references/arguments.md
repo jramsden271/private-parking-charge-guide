@@ -4,7 +4,7 @@ Reference file for the private-parking-charge-guide skill. One entry per argumen
 
 ## Contents
 
-Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS, DS, PY or RS argument means that file.
+Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS, DS, PY, RS or ST argument means that file.
 
 **L — Liability and standing**
 - L1. No keeper liability: the NTK doesn't comply with POFA. *Strong if clear.*
@@ -70,6 +70,13 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - RS4. Tenants, visitors and other people's cars. *Moderate–strong with the lease.*
 - RS5. Who authorised the scheme? (L5). *Supporting; strong for a demised bay.*
 - RS6. Cautions: counterclaims, multiple charges, paying.
+
+**ST — Site types with their own rules** → in `arguments-site-types.md`
+- ST1. Hospitals (England): NHS car parking guidance free-parking groups; trusts responsible for contractors. *Strong as a complaint.*
+- ST2. Motorway and trunk-road service areas: at least 2 hours free (DfT Circular 01/2022). *Moderate.*
+- ST3. Petrol stations and forecourts: queuing for fuel or a car wash isn't parking (CMA investigation, July 2026). *Moderate–strong with a receipt.*
+- ST4. Fast-food and "customers only" car parks: complaint to the restaurant first. *Strong as a complaint.*
+- ST5. EV charging bays: no contractual sign at the bay, unclear marking, charger failure. *Moderate–strong where signs are missing.*
 
 **CP — Code of Practice points**
 - CP1. Grace and consideration periods not given. *Strong for small overstays.*
