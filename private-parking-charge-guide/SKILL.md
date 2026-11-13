@@ -125,6 +125,8 @@ Once the driver is named, it can't be undone. Make sure the user understands tha
 
 **"Isn't it dishonest not to say who was driving?"** Some users feel this strongly. Explain kindly: not volunteering information isn't lying. The law (POFA) sets the conditions for holding a keeper liable, and asking the operator to meet them is using the system as Parliament designed it. What the user must never do is say something untrue (e.g. "I wasn't driving" when they were). Then let them choose; if they still want to name themselves, respect that and help with the arguments that remain.
 
+**Requests for a driving licence (or "proof you weren't driving").** Operators increasingly reply to keeper appeals by asking for a copy of the keeper's driving licence, a photo, or other "evidence" about who was driving, sometimes citing *Elliott v Loake*. This is an attempt to identify the driver. The keeper has no obligation to provide it, and declining doesn't make them liable or weaken a keeper appeal. Reassure the user, and if they reply at all, keep it to one line: the keeper is not obliged to identify the driver or provide personal documents, and there is no presumption in law that the keeper was the driver (*VCS v Edward*; `references/arguments.md` L4). The operators' own Code note on refusals binds them, not the court (L4).
+
 **Evidence that points to the keeper.** Some evidence is in the keeper's own name — a contactless tram/bus journey on their card, a staff permit, a parking app account, a gym membership swipe. It shows the keeper was *there* (an occupant), and in practice comes close to identifying them as the driver. It is often still the strongest point. Raise the trade-off with the user and let them decide; if they use it, keep the wording about the **vehicle** where possible (e.g. "the vehicle is registered to a valid staff permit", "a passenger in the vehicle travelled on the tram", "the car was used by a customer of your store"). *Confidence: Medium.*
 
 **If the driver has already been named (or effectively identified)** — e.g. in an earlier appeal, a phone call, or "I parked there" in an email — POFA and keeper-liability points no longer help. Say so plainly and focus on what's left: signage, landowner authority, grace periods, keying-error rules, mitigation, a landowner complaint. **Watch for partial hints** — including regular-visitor knowledge ("it used to be 2 hours"), the reason the driver couldn't drive (drink, illness), and documents in someone's name (an appointment letter, an app order, a card receipt) — in what the user has already sent or wants to send. Complaints to a landowner, hospital or retailer are often forwarded to the operator, so keep them driver-neutral too. Other examples: "my wife doesn't drive much", "I was only there five minutes". Keep them out of anything new, and flag gently if something already sent may have identified the driver.
@@ -157,7 +159,7 @@ Look for these clues:
 
 **Stages:**
 - **A – Ticket / NTK received.** Plan A complain; Plan B appeal as keeper.
-- **B – Appeal rejected.** POPLA (BPA members) usually worth it; IAS (IPC members) usually not.
+- **B – Appeal rejected.** POPLA (BPA members) usually worth it; IAS (IPC members) optional and rarely successful (offer it honestly; otherwise sit back and wait for a Letter of Claim).
 - **C – Debt collectors.** Ignore.
 - **C2 – "Fake LBC".** A solicitor's debt-collection letter dressed up as a Letter Before Claim. Ignore; a real LBC usually follows later.
 - **D – Letter Before Claim.** Reply (in writing) using the forum's approach.
@@ -177,16 +179,16 @@ If the documents don't make the stage clear, ask what else they've received and 
 | Step | What arrives | From | What to do | Can it lead to a CCJ? |
 |---|---|---|---|---|
 | A | Ticket / Notice to Keeper | Parking company | Complain to landowner; appeal as keeper | No |
-| B | Appeal rejected | Parking company | POPLA (BPA) / usually not IAS (IPC) | No |
+| B | The operator rejects the first appeal | Parking company | Second-stage appeal: POPLA (BPA members), or optionally the IAS (IPC members; rarely succeeds) | No |
 | C | Debt collector letters (often several) | DRP, ZZPS, Trace, DCBL… | Ignore | No |
 | C2 | "Fake LBC" | A solicitor | Ignore (no 30-day deadline) | No |
 | D | Letter Before Claim (30 days) | A solicitor | Decide whether to reply (optional; a reply disputes it in writing); prepare to defend | No — but don't ignore |
-| E | Court claim form | CNBC, Northampton | Acknowledge + defend on time | **Only if ignored** |
+| E | Court claim form | CNBC, Northampton | Acknowledge + defend on time | **Yes, if ignored** (default judgment) |
 | F | Directions questionnaire, mediation | Court | Complete; offer nothing (see the court reference file) | No |
-| G | Hearing date | Local court | Witness statement; attend (often discontinued first) | Only if lost and not paid in a month |
+| G | Hearing date | Local court | Witness statement; attend (often discontinued first) | **Yes, if lost and not paid within a month** |
 | H | Judgment / CCJ | Court | Pay within a month, or set aside | — |
 
-Not every case goes through every step; many stop at C or D, and most defended claims are discontinued before G.
+Not every case goes through every step; many stop at C or D, and most defended claims are discontinued before G. **When explaining how a CCJ can happen, give both routes:** ignoring a court claim (default judgment), or defending, losing at a hearing and not paying within a month. Never say ignoring is the "only" way.
 
 **Check the letterhead carefully — use `references/whos-who.md`.** In particular, **DCBL (Direct Collection Bailiffs Ltd) is not DCB Legal.** They're sister companies in the same group, and people (and their letters) often shorten both to "DCB" or "DCBL":
 - **DCBL / Direct Collection Bailiffs Ltd** (dcbltd.com) — debt collector at stage C ("Notice of Debt Recovery"). No powers without a CCJ: ignore it. (DCBL is also a High Court enforcement firm, so a DCBL letter *after* a CCJ is a different matter — check whether there's a judgment.)
@@ -203,7 +205,7 @@ Sources: the pinned **Newbies thread** (https://forums.moneysavingexpert.com/dis
 
 ### A. Ticket or Notice to Keeper
 - **Don't pay, but don't ignore.** The "pay £60 within 14 days" discount is designed to discourage appeals; forum advice is to ignore that pressure.
-- **Plan A – complain** to the operator's client — the landowner or the occupier who hired the parking firm (retailer, gym, hotel, managing agent; hospital patients/visitors: PALS; **hospital staff: the trust's estates/parking office**, and a union rep if relevant) — and ask them to cancel. Frame it as a complaint, not an "appeal". Often works for retail sites. Say the vehicle visited (or was used by a customer) only if true; don't claim a purchase that wasn't made. **Keep the complaint general where the user has a point to hold back** (`arguments.md` rule 11): it's usually forwarded to the operator, so complain about unfair signs and treatment, not the specific route or evidence gap. Complaint thread: https://forums.moneysavingexpert.com/discussion/4766249
+- **Plan A – complain** to the operator's client — the landowner or the occupier who hired the parking firm (retailer, gym, hotel, managing agent; hospital patients/visitors: PALS; **hospital staff: the trust's estates/parking office**, and a union rep if relevant) — and ask them to cancel. Frame it as a complaint, not an "appeal". **Give them a reason to cancel:** the user was a genuine customer, there's mitigation (an emergency, a delayed appointment, a broken machine), the treatment was unfair. A purely technical argument (e.g. no keeper liability) rarely moves a landowner, especially one with its own interest in enforcement (e.g. an airport keeping its roads clear); with nothing else to offer, skip the complaint. Often works for retail sites. Say the vehicle visited (or was used by a customer) only if true; don't claim a purchase that wasn't made. **Keep the complaint general where the user has a point to hold back** (`arguments.md` rule 11): it's usually forwarded to the operator, so complain about unfair signs and treatment, not the specific route or evidence gap. Complaint thread: https://forums.moneysavingexpert.com/discussion/4766249
   - To keep it keeper-safe, write about the **vehicle** and the visit, e.g. "the car was used by a customer of your store" with a receipt — not "I parked". 
   - Finding who to complain to: ask the store manager or the retail park's centre management who owns or manages the car park; the store's head-office customer services is the usual fallback. For other sites (town-centre car parks, park-and-rides), the signs sometimes name the client; otherwise the forum sometimes uses an HM Land Registry title search (small fee) to find the owner. *Confidence: Medium.*
   - A landowner (or employer/occupier) complaint is worth sending at **any** stage, including after a claim is issued — the client can still ask the operator to discontinue — but never instead of meeting a court deadline.
@@ -229,7 +231,7 @@ Sources: the pinned **Newbies thread** (https://forums.moneysavingexpert.com/dis
 - **BPA member → POPLA.** Uses the POPLA code; deadline is normally 28 days from the date of the rejection letter / POPLA code — compute the date, and check the letter. Forum regulars help draft POPLA appeals; the usual points are: no keeper liability (non-compliant/no POFA NTK), no evidence of landowner authority, inadequate signage, grace period not given, failure to cancel a minor keying error or offer the £20 major-keying-error reduction, plus anything case-specific. For examples, search the forum for recent POPLA appeals against the same operator; the POPLA Decisions thread: https://forums.moneysavingexpert.com/discussion/4488337/popla-decisions
 - **Keying errors at stage B** (definitions in `references/notices-and-codes.md`): two different Code breaches are POPLA/IAS grounds — (1) a **minor** (look-alike) error that the operator didn't cancel (offering £20 instead of cancelling is not enough); (2) a **major** error where the operator neither cancelled nor offered the £20 reduction. POPLA has published case studies cancelling charges on both grounds. If the error was major and the operator *did* offer £20, it followed the Code — be candid that this keying point alone is weak. A landowner complaint is still worth sending now.
 - **POPLA's comments stage:** after the operator uploads its evidence pack, POPLA gives the appellant a short window (check the POPLA portal/email) to comment. Forum regulars stress using it — point out anything missing (e.g. no landowner contract, no sign photos, a mismatch with the NTK). Tell the user to watch for it.
-- **IPC member → IAS:** forum advice is that it almost never succeeds; generally don't use it, and never pay for a "binding" version.
+- **IPC member → IAS: offer it honestly, as the user's choice.** Be upfront that the odds are poor (regulars estimate around 95% of IAS appeals are rejected) and that assessors often reject keeper-liability points by assuming the keeper drove or citing *Elliott v Loake*. If the user is willing to try anyway, draft it with the IAS pre-emptive points (`references/arguments.md`, IAS note) so the likely objections are answered in advance. Never pay for a "binding" version. If they'd rather not bother, the advice is to **sit back**: ignore debt-collector letters and wait for a Letter of Claim, which is when things matter again (stage D). Either way, losing or skipping the IAS doesn't oblige the user to pay.
 - There's no choice between the two: **BPA members use POPLA, IPC members use the IAS.** The rejection letter says which applies.
 - **Losing POPLA/IAS does not oblige the user to pay.** It just means the next letters will come. But be clear about the trade-off: once the second-stage appeal is lost, any discount (the early-payment reduction, or a £20 keying-error offer) is normally gone and the operator will demand the full charge (usually £100), rising with debt-recovery add-ons.
 
@@ -315,6 +317,10 @@ Lay out both views briefly and let the user decide. Don't nudge either way — b
 ## 8. Sending the user to the forum
 
 **Always link it:** when you mention the forum, link the board: https://forums.moneysavingexpert.com/categories/parking-tickets-fines-parking (and the specific thread where you have one). Never just say "the forum".
+
+**Forum etiquette (tell the user when suggesting a post):**
+- **One case per thread.** Start your own thread rather than adding to someone else's. The exceptions are a few group threads set up and named for exactly that (e.g. the Smart Parking / DCB Legal group thread). Linking a thread for the user to *read* is fine; tell them to post their own case in a new thread.
+- **Before a Letter of Claim, only post if there's a real question** that the newbies thread and existing threads don't already answer. Regulars discourage new threads at the early stages that just repeat standard situations. From the Letter of Claim onwards, or with anything unusual, a new thread is appropriate.
 
 Recommend the forum when confidence is Low, facts are unusual, the user is at witness-statement/hearing/set-aside stage with anything non-standard, it's a special case (section 2a), or the user asks. Offer to draft their first post:
 - Title: operator + site + what's happening (e.g. "UKPC – residential – claim form received").
