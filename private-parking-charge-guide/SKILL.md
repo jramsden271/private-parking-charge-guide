@@ -148,7 +148,7 @@ Look for these clues:
 | Debt collector letter | Debt Recovery Plus (DRP)/Zenith, ZZPS, Trace, DCBL (Direct Collection Bailiffs — **not** DCB Legal), etc.; £160–£170; threats of "further action"; see `references/whos-who.md` | C |
 | "Fake LBC" (debt-collection letter on solicitor's letterhead) | Solicitor's headed paper, may even say "Letter Before Claim", but **no 30-day response deadline** (a shorter one, or none); usually no Pre-Action Protocol reply pack | C2 |
 | Letter Before Claim (LBC) / Letter of Claim (LoC) | From a solicitor (DCB Legal, Gladstones, BW Legal, ELMS, Moorside etc.) or ParkingEye's LBCCC; **30-day deadline**; reply form, income & expenditure form, information sheet | D |
-| Claim form (N1) / Particulars of Claim | From the County Court Business Centre (CNBC), Northampton; claim number; **issue date**; MCOL password | E |
+| Claim form (N1) / Particulars of Claim | From the Civil National Business Centre (CNBC, formerly the County Court Business Centre), Northampton; claim number; **issue date**; MCOL password | E |
 | Directions Questionnaire (N180) / Notice of proposed allocation | From the CNBC after a defence is filed | F |
 | Mediation appointment | Small Claims Mediation Service | F |
 | Notice of hearing / directions order | From the local county court; deadline for witness statements and evidence (usually 14 days before hearing); hearing fee deadline for claimant | G |
