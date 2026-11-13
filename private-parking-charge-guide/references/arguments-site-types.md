@@ -12,7 +12,8 @@ Some kinds of site come with extra rules, regulators or people to complain to. T
   - **Complain to the trust** (Plan A): patients and visitors through PALS; staff through the trust's estates or parking office, and a union rep. Ask the trust to cancel; it is responsible for its contractor. SKILL.md section 5A has the routes.
   - **Appeal as keeper** as usual. Ordinary hospital car parks are normally relevant land (*Medium*), so the keeper points depend on the NTK (L1).
   - **Evidence:** appointment letters or texts showing the time and any delay (keep it about the vehicle where possible); proof of the concession (Blue Badge, outpatient schedule, staff rota, a child's admission).
-  - **Disability:** see `arguments-disability.md`.
+  - **Disability:** see `arguments-disability.md`. Cancer, HIV and multiple sclerosis count as disabilities under the Equality Act 2010 from diagnosis (Sch 1 para 6), so a patient in treatment for one of these is covered by the DS points too, whether or not they hold a Blue Badge.
+  - **Mitigation without conceding:** describe what happened to the vehicle's stay ("the stay was extended by a delayed appointment") rather than "I overstayed".
 - **Strength:** Strong as a complaint where the user is in a free-parking group or the overstay was caused by the hospital; moderate as an appeal point.
 - **Careful:** this guidance covers England. Hospital parking is generally free in Wales and Scotland (out of scope here anyway). Some trusts run parking in-house; the complaint is still to the trust.
 - **Forum threads:** 6661706 (staff EV bay at a hospital).
@@ -30,6 +31,8 @@ Some kinds of site come with extra rules, regulators or people to complain to. T
 - **Applies when:** the "overstay" is explained by a queue for fuel, the shop, a car wash, air or vacuum; or the site is busy.
 - **Evidence:** fuel or car wash receipt with the time; the ANPR times; photos or a description of the queue; bank records.
 - **Playbook:** complain to the forecourt operator or retailer with the receipt (Plan A); appeal as keeper; mention the CMA investigation as context (it isn't a ruling). A complaint to the CMA with evidence is also possible.
+- **Defeated by:** time spent parked in a bay (e.g. going into the shop), which ends the consideration period (cl. 5.1 Note 2); a stay well beyond any queue. Forecourts are usually short-stay sites, so there's no grace period and only a 1-minute minimum consideration period; the argument must rest on the actual queue time.
+- **By stage:** *Appeal:* the queue, with the fuel receipt time (a till receipt usually names nobody: rule 12). *POPLA and IAS:* C6 and cl. 5.1(f)–(g); the CMA investigation as context. *Complaint:* to the forecourt or retailer.
 - **Strength:** Moderate to strong with a receipt showing the visit was for fuel or a wash; *Confidence: Medium* (the CMA investigation is ongoing; check for updates).
 - **Sources:** CMA case page, Euro Car Parks consumer protection enforcement case: https://www.gov.uk/cma-cases/euro-car-parks-consumer-protection-enforcement-case ; CMA open letter, 16 July 2026.
 
@@ -47,6 +50,12 @@ Some kinds of site come with extra rules, regulators or people to complain to. T
   - **The bay isn't clearly marked as a charging bay, or the sign says "EV parking" rather than "EV charging only".** POPLA allowed an appeal where the EV bay was indistinguishable from others and the sign used the banned words "Penalty Charge Notice" (6628689; C12). Bays with no working charger connected also undermine "misuse" (6661706).
   - **The charger failed.** Evidence of attempts to charge (app logs, photos of the cable connected) shows the driver tried to use the bay as intended (6565890, 6552469).
   - **Overstay while charging.** The charging invoice shows the time spent charging; argue the consideration and grace periods and any confusion between charging time and parking time on the signs (6629171). Weaker if the sign clearly sets a maximum stay for chargers.
+- **Applies when:** the vehicle was an EV that tried to charge, or the bay's signs are missing or unclear.
+- **Defeated by:** a long stay after the failure without trying another bay or leaving (the operator will ask why the car stayed); clear operator signs at the bay saying "charging only".
+- **By stage:**
+  - *Appeal:* the charger failed (screenshots of the attempts, described about the vehicle; app screenshots may show the account holder, rule 12); put the operator to proof of a terms sign at the bay. Keep the detailed signage point for POPLA (rule 11).
+  - *POPLA and IAS:* signs at the bay (C11), marking, the failed attempts.
+  - *Complaint:* to the landowner, copied to the charge provider.
 - **Careful:** an EV charging network's own "idle" or overstay fee is a separate thing from a private parking charge; check which it is. A Blue Badge doesn't override charging-bay terms by itself.
 - **Strength:** Moderate to strong where signs at the bay are missing or unclear; weak where a non-charging vehicle sat in a clearly signed charging-only bay.
 - **Forum threads:** 6596296; 6628689; 6661706; 6565890; 6552469; 6629171; 6575874; 6652963.

@@ -3,7 +3,7 @@
 Reference file for the private-parking-charge-guide skill.
 
 
-Use these tables to identify documents and to set expectations. They describe **forum-reported tendencies, not guarantees** — firms change their paperwork, solicitors and litigation habits. Always read the actual NTK against POFA Sch 4 rather than relying on the operator's reputation. Last checked 2026-11-12. If you have web access, search the forum for recent threads on the same operator + solicitor before predicting what will happen.
+Use these tables to identify documents and to set expectations. They describe **forum-reported tendencies, not guarantees** — firms change their paperwork, solicitors and litigation habits. Always read the actual NTK against POFA Sch 4 rather than relying on the operator's reputation. **Trade body and appeals service:** take them from the notice itself (it must show the trade-body logo and say whether appeals go to POPLA or the IAS), not from these tables; operators switch between the BPA and IPC. Last checked 2026-11-12. If you have web access, search the forum for recent threads on the same operator + solicitor before predicting what will happen.
 
 ## Parking operators
 
