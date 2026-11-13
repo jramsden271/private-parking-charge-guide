@@ -4,7 +4,7 @@ Reference file for the private-parking-charge-guide skill. One entry per argumen
 
 ## Contents
 
-Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS, DS or PY argument means that file.
+Argument IDs are stable, so add new arguments at the end of their group rather than renumbering. This file holds the core groups (L, C, CP, M, CT, W) and the rules for using the whole library. Scenario groups live in their own files, marked below. Open a scenario file whenever the facts fit it; a cross-reference to an NS, AP, LS, DS, PY or RS argument means that file.
 
 **L — Liability and standing**
 - L1. No keeper liability: the NTK doesn't comply with POFA. *Strong if clear.*
@@ -62,6 +62,14 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - PY3. Paid, but not matched: wrong location code, wrong app, wrong car, system error. *Weak–moderate alone; strong as a complaint.*
 - PY4. Paid late, or paid before leaving (F.1(j)). *Strong where F.1(j) applies.*
 - PY5. Customer didn't register on the in-store terminal (F.3(g); cl. 3.1 Note 4). *Strong as a complaint.*
+
+**RS — Residential parking and permits** → in `arguments-residential.md`
+- RS1. Primacy of contract: the lease or tenancy already gives the right to park (*Jopson*; *Saeed v Plustrade*). *Strong with a clear lease.*
+- RS2. The lease can't be varied by a parking scheme (LTA 1987 s.37). *Moderate–strong, with RS1.*
+- RS3. Permit held but not displayed, or fell off the dashboard (F.3(d)). *Strong with RS1; moderate alone.*
+- RS4. Tenants, visitors and other people's cars. *Moderate–strong with the lease.*
+- RS5. Who authorised the scheme? (L5). *Supporting; strong for a demised bay.*
+- RS6. Cautions: counterclaims, multiple charges, paying.
 
 **CP — Code of Practice points**
 - CP1. Grace and consideration periods not given. *Strong for small overstays.*
@@ -295,7 +303,7 @@ The IAS lines in the entries below build these in where relevant.
 - **Sources:** *Jopson v Homeguard* (2016).
 
 ### C5. Primacy of contract (residential sites)
-- **Point:** a lease or tenancy that grants a right to park can't be cut down by a parking firm's later signs.
+- **Point:** a lease or tenancy that grants a right to park can't be cut down by a parking firm's later signs. **For any residential case, open `arguments-residential.md`** (RS1 has the full argument, cases and wording).
 - **Applies when:** the user lives there, or is visiting a resident, and the lease or tenancy grants parking rights.
 - **Evidence:** the lease or tenancy agreement (the parking clause); the allocated space.
 - **Strength:** Strong where the lease is clear. Clauses allowing "reasonable regulations" by the landlord are debated (*Low*).
