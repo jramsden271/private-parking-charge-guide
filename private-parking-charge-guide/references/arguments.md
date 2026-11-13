@@ -23,7 +23,7 @@ Argument IDs are stable, so add new arguments at the end of their group rather t
 - C6. The consideration period was too short for this site: the Code's figures are minimums, not maximums (cl. 5.1; CMA open letter, July 2026). *Moderate–strong for short stays.*
 - C7. No adequate entrance sign (Code cl. 3.1.1–3.1.2). *Moderate–strong where missing or unreadable on approach.*
 - C8. The charge wasn't prominent: the *Beavis* sign comparison and the "red hand rule" (*Spurling*, *Interfoto*; Code cl. 3.1.3–3.1.4). *Moderate; the standard signage point at court.*
-- C9. Forbidding signs: "Permit holders only" / "No parking" offers no contract (*PCM v Mr B* and others). *Moderate–strong where the wording is purely prohibitive.*
+- C9. Forbidding signs: "Permit holders only" / "No parking" / "No parking 22:00–08:00" offers no contract (*PCM v Mr B* and others). *Moderate–strong where the wording is purely prohibitive.*
 - C10. Signs not readable in the conditions: dark, too high, obscured, faded (Code cl. 3.1.6–3.1.7). *Moderate with photos.*
 - C11. No sign where it mattered: terms only at the machine, none near the bay, unclear boundaries between sites (Code cl. 3.1.3(a), 3.2, 3.3). *Moderate.*
 - C12. Unclear, inconsistent or changed signs; the operator's photos aren't of the signs as they were. *Supporting–moderate.*
@@ -360,6 +360,8 @@ The IAS lines in the entries below build these in where relevant.
 ### C9. Forbidding signs: "Permit holders only" or "No parking" offers no contract
 - **Point:** a contract needs an offer. A sign that only forbids ("No parking at any time", "Permit holders only", "Residents only") offers nothing to anyone outside the permitted group, so a driver who parks there can't have accepted an offer, and there's no contract to breach. At most it's a trespass, which only the landowner (or someone in possession) can sue for, and only for actual loss. In *PCM (UK) v Mr B*, *Mr W* and *Ms L* (2016) the District Judge found a "No Parking At Any Time" sign "absolutely prohibitive", communicating no offer of parking, and dismissed all three claims; *Beavis* didn't apply because there the contract was agreed. This is the same principle as NS1 for no-stopping signs.
 - **Applies when:** the sign's main message is a prohibition, and the charge is presented as a contractual sum for doing the forbidden thing; typically residential sites, private roads, permit-only areas.
+- **Special case: no parking out of hours.** Common at retail parks: "No parking between 22:00 and 08:00" (or "Car park closed"). During those hours the sign offers no parking at all, so a car there overnight hasn't accepted any offer; it's a prohibition for that period, and at most a trespass. Check the exact wording for each period separately: the daytime terms may well be a valid offer, but they don't cover the night. Check the timings too: if the car arrived in the permitted hours and stayed into the closed period, the charge may be framed as an overstay of the daytime terms instead (then C8/C10 on how clearly the closing time was shown, and CP1).
+  - **Defeated by:** sites that offer short parking out of hours instead of forbidding it (e.g. "08:00–22:00: 3 hours; 22:00–08:00: 10 minutes"). That's an offer with a time limit, so an overnight stay is an ordinary overstay; use the overstay points, plus C10 (were the signs readable at night?).
 - **Defeated by:** signs that do offer parking to everyone on stated terms (e.g. "Parking for non-permit holders is £100 per day", or "By parking without a permit you agree to pay £100"). Some judges treat such wording as a conditional offer, so read the exact words; the claimant will argue it. Also defeated where the driver *was* a permit holder who forgot to display (then it's a permit/terms point, and C5 primacy of contract may be stronger).
 - **Strength:** Moderate to strong where the wording is purely prohibitive. First-instance decisions only, so persuasive. *Confidence: Medium.*
 - **By stage:**
@@ -367,7 +369,7 @@ The IAS lines in the entries below build these in where relevant.
   - *Defence:* "The signs are forbidding and incapable of forming a contract with a driver who was not a permit holder; at most this is a trespass, a matter for the landowner." Cite the PCM cases.
   - *WS:* exhibit the sign; quote the PCM reasoning; contrast it with a sign that does offer terms.
 - **Established wording:** *(defence, widely used)* "It is limited to cars displaying a valid permit only and therefore the terms cannot apply to cars without a permit because the signage does not offer an invitation to park on certain terms. The terms are forbidding." (6316993) Also "it is trite law that a term that is forbidding cannot also constitute an offer" (6270450).
-- **Forum threads:** 5451157 (Coupon-mad: "Permit Holders Only" is "the same as saying to such a person 'No Parking'"); 5825835; 6316993; 6270450; 6097447.
+- **Forum threads:** 6680804 (a sign that "expressly does not offer parking at all after 22:30": no contract offered for that period, at most trespass); 5451157 (Coupon-mad: "Permit Holders Only" is "the same as saying to such a person 'No Parking'"); 5825835; 6316993; 6270450; 6097447.
 - **Sources:** `cases.md`: *PCM (UK) v Mr B, Mr W, Ms L*; NS1 for the no-stopping version.
 
 ### C10. Signs not readable in the conditions: dark, too high, obscured, faded
