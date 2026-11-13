@@ -136,7 +136,7 @@ When an argument depends on what the site looks like and the user has little or 
 
 ### IAS note (IPC members)
 
-The forum's general advice is that IAS appeals rarely succeed, so explain this to the user before they spend time on one. If they do appeal, IAS assessors often reject keeper-liability points by assuming the keeper was the driver, or by citing *Elliott v Loake*. Arguments that would win at a hearing still fail there. So an IAS appeal should **pre-empt** these:
+The forum's general advice is that IAS appeals rarely succeed, so explain this to the user before they spend time on one. Explain the upside too, because it's why some people still try: a standard IAS appeal is free and binds the **operator only** (IAS rules 3.3–3.4), so a win cancels the charge for good, while a loss leaves the user exactly where they were. Never use the paid non-standard appeal, which binds the user too. If they do appeal, IAS assessors often reject keeper-liability points by assuming the keeper was the driver, or by citing *Elliott v Loake*. Arguments that would win at a hearing still fail there. So an IAS appeal should **pre-empt** these:
 - the keeper isn't obliged to name the driver, and has not done so;
 - there is no presumption in law that the keeper was the driver (*VCS v Edward*; *Excel v Smith*);
 - *Elliott v Loake* was a criminal case decided on forensic evidence and is no authority for such a presumption;
