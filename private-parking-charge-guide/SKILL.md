@@ -15,9 +15,9 @@ This file holds the core rules and stages A–D. Detailed material is in `refere
 | File | Open it when |
 |---|---|
 | `references/arguments.md` | **Before drafting any appeal, POPLA/IAS appeal, LBC reply, defence or witness statement** — the core argument library: the rules for using it, a contents list of every argument (including the scenario files below), and the general groups (liability, contract and signage, Code points, mitigation, court) |
-| `references/arguments-no-stopping.md` | Also open for any **no-stopping, drop-off, airport or station-forecourt** charge (groups NS and AP) |
-| `references/arguments-left-site.md` | Also open for a charge for the **driver or passengers leaving the site** (group LS) |
-| `references/arguments-disability.md` | Also open when the **driver or a passenger is disabled** or a Blue Badge is involved (group DS) |
+| `references/arguments-no-stopping.md` | Also open (with `arguments.md`) for any **airport** charge, including airport car parks, and any **no-stopping, drop-off or station-forecourt** charge (groups NS and AP) |
+| `references/arguments-left-site.md` | Also open (with `arguments.md`) for a charge for the **driver or passengers leaving the site** (group LS) |
+| `references/arguments-disability.md` | Also open (with `arguments.md`) when the **driver or a passenger is disabled** or a Blue Badge is involved (group DS) |
 | `references/notices-and-codes.md` | Checking a Notice to Keeper against POFA (para 9 / para 8 checklists), "relevant land" (stations, airports, trams), the industry Single Code (notice rules, Appeals Charter, keying errors, grace periods) |
 | `references/court-claim-and-defence.md` | A court claim form has arrived: deadlines, MCOL, Acknowledgment of Service, pulling apart the Particulars of Claim, writing the defence, DQ and mediation |
 | `references/hearing-and-ccj.md` | A hearing is listed (witness statement, exhibits, the day), or there's a judgment/CCJ (paying within the month, set-aside) |

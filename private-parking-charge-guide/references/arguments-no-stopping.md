@@ -189,6 +189,7 @@ Main forum source: Coupon-mad's group thread **6500170** ("Heathrow Gatwick Manc
 |---|---|---|---|
 | **Paid drop-off zone**: the fee wasn't paid by the deadline | APCOA (Heathrow, Manchester, Luton, Birmingham); NCP (Gatwick); NSL (Stansted) | BPA, so POPLA | AP1, AP2, L3, L4 |
 | **No-stopping roadways** | VCS (Bristol, East Midlands, Leeds Bradford, Southend); UKPPO (Newcastle) | IPC, so IAS | The NS group, plus L3 and L4 |
+| **Airport car parks** (short-stay, multi-storey, long-stay, pre-booked): overstay, unpaid or underpaid tariff | Varies by airport; check the notice | Check the notice | AP1 if the car park is inside the byelaw boundary, plus L4; then the ordinary points (CP1, C6, C1, L5) as secondary. A delayed flight is mitigation (M1), better saved for a landowner complaint than an appeal. A pre-booked parking contract has its own terms: check them |
 
 Airport operators change, so check the NTK rather than assuming.
 
@@ -222,6 +223,7 @@ Airport operators change, so check the NTK rather than assuming.
   - *POPLA:* set out the byelaws, the boundary and L4; add AP2 if the NTK claims POFA liability.
   - *IAS:* as POPLA, with the IAS pre-emptive points.
   - *Defence:* plead L3 and L4 with the airport's byelaws.
+- **If the byelaw boundary isn't confirmed** (e.g. a car park on the edge of the airport, or the boundary map isn't to hand): don't assert byelaw land as fact. Use put-to-proof wording instead: "This location appears to be airport land subject to byelaws and therefore not 'relevant land' under Schedule 4 of the Protection of Freedoms Act 2012. You are put to strict proof that it is relevant land; otherwise there is no keeper liability." Check the boundary (6654021) before POPLA.
 - **Established wording:** *(keeper appeal; template credited to ChirpyChicken in 6500170)* "This is an appeal by the registered keeper - No driver details will be given. … Due to this being airport land you will be well aware there is no keeper liability due to the byelaws in force and the fact this is not relevant land. As there is no keeper liability then liability cannot flow from the driver to the keeper … Please therefore cancel the notice or issue a POPLA code." The full template, in a more combative tone, is in the thread's opening post. Point the user there, and adapt the tone to the user.
 - **Forum threads:** 6500170; 6497331; 6503117; 6654021.
 
