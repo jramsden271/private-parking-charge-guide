@@ -3,6 +3,9 @@
 Reference file for the private-parking-charge-guide skill. The core rules in SKILL.md still apply.
 
 ## G. Hearing listed
+
+**Set expectations, and send the user to the forum.** Hearings are rare: the usual pattern is that the claimant discontinues around the witness-statement stage (often just before its hearing fee or the exchange deadline), so say that as reassurance. Because so few cases get this far, this skill has little detail on hearings. If the user hasn't already got a forum thread for the case, **recommend starting one now** (SKILL.md section 8; offer to draft it), and post the witness statement there for review. Prefer what regulars say in that thread over anything here. *Confidence: Medium-high.*
+
 - **Witness statement + evidence** are required — build it from the defence's points, using the witness-statement format in `arguments.md` (the defence alone is not enough). Deadline is on the hearing notice — usually 14 days before. Email to the **local court** (not the CNBC) and the claimant's solicitor. Have yours ready to file by the deadline (exchange is normally simultaneous); if theirs arrives first, you can respond to it in yours.
 - Typical exhibits (choose what fits): the Beavis sign for comparison; photos of poor/missing signs; strike-out orders/appeal judgments; POFA Sch 4 + keeper-liability transcripts; lease/tenancy for own-space disputes; other relevant transcripts (Jopson, PACE v Mr N); the relevant Code of Practice provisions (e.g. grace periods); P&D ticket/receipts; Beavis paras 98, 193 and 198. Add a one-page costs schedule if taking time off work.
 - On the day: arrive 30 minutes early, bring printed copies and a crib sheet, decline side-room chats with the claimant's representative, address the judge as "Judge", and ask for costs at the end.

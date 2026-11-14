@@ -26,7 +26,7 @@ These charges come from a term like "Driver and/or passengers must remain on sit
   - *Defence:* deny the breach; put the claimant to strict proof of who left, when, and where the boundary was.
   - *WS:* comment on each photo; site plan as an exhibit.
 - **Established wording:** *(none yet)*
-- **Forum threads:** 6300836; 5939613; 6436773.
+- **Forum threads:** 6300836; 5939613; 6436773; 6677710 (UKPC/DCB Legal, four PCNs, "driver left site designated for customer parking only": photos of the parked car only and a "may be issued" sign; regulars expected discontinuance; DCB dropped it at mediation, Nov 2026).
 
 ### LS2. A passenger isn't a party to the contract
 - **Point:** the parking contract is made with the driver, by conduct (entering and parking). Passengers do nothing that accepts an offer, so no contract is formed with them, and a term purporting to bind "passengers" can't bind them. The operator then has to argue that the driver accepted a term making them answerable for other people's conduct. Such a term is unusual, unclear and arguably unfair (Consumer Rights Act 2015 s.62; and s.68 transparency), and where it's ambiguous the meaning most favourable to the consumer prevails (s.69).

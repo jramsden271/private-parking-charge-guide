@@ -64,7 +64,9 @@ Then the template thread's eight steps:
 1. File the defence on MCOL; confirm it shows in Claim History.
 2. Ignore early paperwork from the claimant (their own DQ, "intention to proceed", settlement offers).
 3. Wait for the official DQ (N180) from the CNBC; complete the online PDF version (forum's answers are linked from the thread).
-4. Mediation is mandatory: a short phone call; offer nothing (or a nominal sum only if a tariff was genuinely owed).
+4. Mediation is mandatory: a short phone call; offer nothing (or a nominal sum only if a tariff was genuinely owed). How it usually goes: the mediator calls each side separately and passes messages between them. State the position briefly and calmly: nothing is owed, the key reasons in a sentence or two (e.g. no evidence of the breach, unclear signs), and that the defendant is ready to defend at a hearing and will ask for their costs. Don't argue the whole case.
+   - **"Drop hands" offers.** The claimant sometimes offers to end the claim if the defendant agrees not to seek costs or expenses. Regulars call this quite common and usually worth considering (6677710, Gr1pr, Nov 2026); outright discontinuance at mediation is rarer. It's the user's choice: weigh it against the modest costs a defendant can usually claim in the small claims track.
+   - **After a settlement at mediation:** the agreement may be confidential, and a formal notice of discontinuance (N279) doesn't always follow. Suggest emailing the solicitor for written confirmation that the claim has ended, and keeping it (6677710, Coupon-mad). *Confidence: Medium.*
 5. Email the DQ to DQ.CNBC@justice.gov.uk (unless counterclaiming) and copy the claimant's solicitor.
 6. Don't post things to parking firms by recorded/special delivery; don't use the paper N180.
 7. Hearings are rare — claims are often discontinued (very common with DCB Legal; see `whos-who.md`). Ask for your local court; the forum prefers a hearing over a paper decision.

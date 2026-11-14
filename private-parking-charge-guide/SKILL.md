@@ -274,7 +274,7 @@ When drafting a POPLA appeal: build it from the user's facts, choosing points fr
 
 ### E–H. Court claim, hearing and judgment
 - **Claim form received:** open `references/court-claim-and-defence.md` **before replying**. Give the computed deadlines first (Acknowledgment of Service; defence by 4pm on day 33 after the issue date — confirm on MCOL).
-- **Hearing listed, judgment or CCJ:** open `references/hearing-and-ccj.md`.
+- **Hearing listed, judgment or CCJ:** open `references/hearing-and-ccj.md`. For a hearing, reassure the user (most claims are discontinued around the witness-statement stage) and recommend a forum thread for the case if they haven't one.
 
 ## 6. Common questions — model answers
 
